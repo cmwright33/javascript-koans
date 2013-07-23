@@ -33,6 +33,6 @@ describe("About Expects", function() {
 
   //Sometimes we will ask you to fill in the values.
   it("should have filled in values", function () {
-    expect(1 + 1).toEqual(2);
+    expect(1 + 1).toEqual(2); // I commited this with 4 by accident! whoops!
   });
 });
